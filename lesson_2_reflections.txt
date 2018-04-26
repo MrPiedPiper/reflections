@@ -27,3 +27,8 @@ By showing the structure in an easy to understand graphic.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 You combine the histories and data changed, while also keeping the records seperate at the same time. You show it like that because it makes sense.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is convenient. And if it's not sure about something, it'll tell you. Always doing it manually means you probably won't get things you didn't want, but there's alot of room for human error.
