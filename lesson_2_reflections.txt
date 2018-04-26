@@ -6,3 +6,8 @@ It makes a new Git repository, but it doesn't make a commit. You have to tell it
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It's the middle-man that manages what's backed up. It's valuable in that it can be set up, then saved. It's quite important.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can view what differences there are between the previous commit, the staging area, and the files you're working with. That way, you can see exactly what you're doing, and make sure you're commiting the right changes.
