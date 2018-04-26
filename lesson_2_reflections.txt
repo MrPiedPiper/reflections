@@ -11,3 +11,11 @@ It's the middle-man that manages what's backed up. It's valuable in that it can 
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can view what differences there are between the previous commit, the staging area, and the files you're working with. That way, you can see exactly what you're doing, and make sure you're commiting the right changes.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Say you wanted to experiment with a UI overhaul, but weren't sure it'd work out, and wanted a working version of your game. You could make a branch for the experimental UI, and still have the original working copy saved!
+It's organized because you don't have to keep track of commits, and it'd help because it's convenient.
+
+
