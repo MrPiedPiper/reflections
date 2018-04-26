@@ -19,3 +19,6 @@ Say you wanted to experiment with a UI overhaul, but weren't sure it'd work out,
 It's organized because you don't have to keep track of commits, and it'd help because it's convenient.
 
 
+How do the diagrams help you visualize the branch structure?
+
+By showing the structure in an easy to understand graphic.
