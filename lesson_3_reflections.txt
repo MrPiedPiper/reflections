@@ -24,3 +24,8 @@ You can know where in the history of the repo you are. Whether you're ahead, beh
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I guess something like Google Drive or email? It's definitely be much harder than Git's awesome collab system.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Whenever it's a bit more "Experimental" instead of being just a small change you know you want and you know won't break the system.
