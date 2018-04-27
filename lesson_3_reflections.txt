@@ -19,3 +19,8 @@ You'd use forks to try other peoples projects, clones for just copying stuff, an
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can know where in the history of the repo you are. Whether you're ahead, behind, or out of sync.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I guess something like Google Drive or email? It's definitely be much harder than Git's awesome collab system.
