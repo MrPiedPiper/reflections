@@ -6,3 +6,11 @@ When working from multiple machines, or collaborating.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 For the same reason you don't want Git auto-commiting changes. They might not make-sense/work.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks copy a repository to your github while keeping a link to the original. (Might be able to merge too?)
+Clones are for full on copying a git.
+Branches are for different versions. Like an experimental version, or a new language.
+You'd use forks to try other peoples projects, clones for just copying stuff, and branches for experimenting/trying new versions.
